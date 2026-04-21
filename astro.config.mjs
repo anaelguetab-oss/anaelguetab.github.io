@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 import icon from 'astro-icon';
 
-// https://astro.build/config
+// https://anaelguetb.github.io
 export default defineConfig({
   // site: '#',
   // base: '/',
